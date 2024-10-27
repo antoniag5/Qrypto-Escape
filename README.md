@@ -8,7 +8,8 @@ In this escape room game, players embody Beatrice a quantum cryptographer. Beatr
 
 ## Installation and Setup
 
-1. Get the game from repository: https://github.com/antoniag5/Qrypto-Escape
+1. Get the game from repository: https://github.com/antoniag5/Qrypto-Escape , or play on itch.io: https://rishigames.itch.io/qrypto-escape
+
 2. Unzip and play!
 
 ### Scene 1: Search room and find components
