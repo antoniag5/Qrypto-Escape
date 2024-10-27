@@ -10,8 +10,10 @@ In this escape room game, players embody Beatrice a quantum cryptographer. Beatr
 
 1. Get the game from repository: https://github.com/antoniag5/Qrypto-Escape , or play on itch.io: https://rishigames.itch.io/qrypto-escape
 
-2. Unzip and play!
+2. Unzip Build.zip and open the lvl3-fix.exe file!
 
+TIPS FOR THE GAME: In the first scene, gather at least 3 parts of the receiver to move on to the next scene. HINT: One part is not like the others!
+                   In the second scene, drag and drop the plate until you see a photon passing through.
 ### Scene 1: Search room and find components
 
 In this phase, Beatrice explores the lab to locate essential quantum components, including:
