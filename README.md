@@ -4,7 +4,7 @@ This Unity-based project introduces players to quantum cryptography concepts in 
 In this escape room game, players embody Beatrice a quantum cryptographer. Beatrice wakes up, feeling dizzy, in a disorganized quantum cryptography lab. Something has gone wrong — the lab is in lockdown, and vital components needed for quantum communication are scattered. She receives a faint classical signal from her colleague Albert outside: “Beatrice, listen carefully. Eve is trying to intercept our data. You need to find the components, set up the optical table, and establish a secure quantum connection using the BB84 protocol before it’s too late. I’ll guide you, but we have to move fast.” Beatrice must now gather her wits, search for the missing optical components, and receive guidance from Albert through the classical channel to build the setup, perform the quantum key distribution protocol to receive a random key and then decrypt the encrypted password and and escape the room. Are they safe or more dangers wait ahead?
 
 ## Installation and Setup
-1. Get the game from repository: https://github.com/antoniag5/Qrypto-Escape
+1. Get the game from repository: https://github.com/antoniag5/Qrypto-Escape , or play on itch.io: https://rishigames.itch.io/qrypto-escape
 2. Unzip and play!
 
 ### Scene 1: Search room and find components
